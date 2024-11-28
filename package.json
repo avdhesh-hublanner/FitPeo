@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "cypress": "^13.16.0",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1",
+    "xpath": "^0.0.34"
+  }
+}
